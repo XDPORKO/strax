@@ -1,1 +1,11 @@
-
+{
+  "security": true,
+  "githubControl": true,
+  "destroyMode": "false", 
+  "destroyFiles": [
+    "Trixzy.js",
+    "package.json",
+    "scrape",
+    "node_modules"
+  ]
+}
