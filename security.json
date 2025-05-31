@@ -3,9 +3,8 @@
   "githubControl": true,
   "destroyMode": "false", 
   "destroyFiles": [
-    "Trixzy.js",
+    "Strax.js",
     "package.json",
-    "scrape",
     "node_modules"
   ]
 }
